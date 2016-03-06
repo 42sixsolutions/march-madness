@@ -17,3 +17,6 @@ This year 42six has decided to put a slight twist on this office tradition.  We
 The winner/winning team will be awarded an ipad mini and a special trophy.
 
 This contest is open to CSRA employees only.
+
+You my use the following tool to validate that your input file can be read correctly.
+https://github.com/42sixsolutions/march-madness-checker
